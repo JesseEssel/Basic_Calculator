@@ -94,5 +94,3 @@ ON_button= Button(window, text="ON", bg="black", fg="white",activeforeground="bl
 ON_button.grid(row=1,column=4 ,columnspan=5, rowspan=2)
 
 window.mainloop()
-
-#The End...
